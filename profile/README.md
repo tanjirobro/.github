@@ -6,6 +6,6 @@ Tanjirobro is my hub for coding and side projects. I'm a Software Engineer craft
 
 
 ### 🤝 Get Involved
-Explore repos, fork, or submit a PR! Reach me at [frerot.dev](https://www.frerot.dev).
+Explore repos, fork, or submit a PR! Reach me at [github@frerot.dev](mailto:github@frerot.dev).
 
 Let’s code and conquer! 💻
